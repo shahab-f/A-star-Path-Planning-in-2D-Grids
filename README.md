@@ -1,1 +1,1 @@
-# A-algorithm-for-path-planning-in-a-2D-grid-based-map
+# A-star-Path-Planning-in-2D-Grids
